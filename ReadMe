@@ -1,3 +1,4 @@
 This program takes in the closing stock price for the last year using Yahoo finance data. It creates an 
 Excel spreadsheet with the data, and prints a time-series plot of the data.
-I chose AAPL as a sample case, but the code can easily be modified by changing the input URLs.
+I chose AAPL as a sample case, but the code can easily be modified to collect data on other stocks
+by changing the input URLs.
